@@ -1,5 +1,3 @@
-# maskDetector (https://realanupreet.github.io/maskDetector/)
-# maskDetector ([https://lively-tree-0dd0d8210.1.azurestaticapps.net/])
 # maskDetector (https://purushottam30.github.io/Mask-Detector/)
 
 ### FRT SUBMISSION
@@ -24,6 +22,6 @@ As the health risks rise day by day due to various viruses we need ways to prote
 ### Primary Azure Technology:
 Visual Studio Code, Static Web Apps.
 
-## [Demo](https://lively-tree-0dd0d8210.1.azurestaticapps.net/) 
+## [Demo](https://purushottam30.github.io/Mask-Detector/) 
 
 ![image](demo.png)
