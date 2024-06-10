@@ -1,5 +1,6 @@
 # maskDetector (https://realanupreet.github.io/maskDetector/)
-# maskDetector (https://lively-tree-0dd0d8210.1.azurestaticapps.net/)
+# maskDetector ([https://lively-tree-0dd0d8210.1.azurestaticapps.net/]
+# maskDetector (https://github.com/purushottam30/Mask-Detector/tree/main))
 
 ### FRT SUBMISSION
 This is a project created for Future Ready Talent Internship
