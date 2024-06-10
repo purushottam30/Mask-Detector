@@ -1,4 +1,4 @@
-# maskDetector (https://lively-tree-0dd0d8210.1.azurestaticapps.net/)
+# maskDetector (file:///C:/Users/purushottam/Downloads/maskDetector-main/maskDetector-main/index.html)
 
 ### FRT SUBMISSION
 This is a project created for Future Ready Talent Internship
